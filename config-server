@@ -1,1 +1,2 @@
-
+foo: from configServer props test
+democonfigclient.message: hello spring io  test
